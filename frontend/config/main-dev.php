@@ -12,7 +12,6 @@ $config = [
                 [
                     'class' => 'yii\log\FileTarget',
                     'levels' => ['error', 'warning', 'info'],
-                    'logFile' => '/Users/kim/work/jiangyanwei.com/code/advanced/runtime/' . APPLICATION . '/log.log',
                 ],
             ],
         ],

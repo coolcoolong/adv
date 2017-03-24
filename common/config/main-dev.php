@@ -3,7 +3,7 @@ return [
     'components' => [
         'frontend_db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=jiangyanwei',
+            'dsn' => 'mysql:host=localhost;dbname=yii2',
             'username' => 'root',
             'password' => '',
             'charset' => 'utf8mb4',
@@ -12,7 +12,7 @@ return [
         ],
         'backend_db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=jiangyanwei',
+            'dsn' => 'mysql:host=localhost;dbname=yii2',
             'username' => 'root',
             'password' => '',
             'tablePrefix' => 'admin_',
