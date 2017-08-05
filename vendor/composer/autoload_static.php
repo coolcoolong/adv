@@ -39,6 +39,7 @@ class ComposerStaticInit220819a5ce7b8e19ef530f3ae993da31
         ),
         'c' => 
         array (
+            'colee\\vue\\' => 10,
             'cebe\\markdown\\' => 14,
         ),
         'F' => 
@@ -99,6 +100,10 @@ class ComposerStaticInit220819a5ce7b8e19ef530f3ae993da31
         'dee\\adminlte\\' => 
         array (
             0 => __DIR__ . '/..' . '/deesoft/yii2-adminlte',
+        ),
+        'colee\\vue\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/colee/yii2-vue',
         ),
         'cebe\\markdown\\' => 
         array (

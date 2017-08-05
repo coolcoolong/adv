@@ -19,6 +19,7 @@ return array(
     'mdm\\admin\\' => array($vendorDir . '/mdmsoft/yii2-admin'),
     'dee\\angular\\' => array($vendorDir . '/deesoft/yii2-angular'),
     'dee\\adminlte\\' => array($vendorDir . '/deesoft/yii2-adminlte'),
+    'colee\\vue\\' => array($vendorDir . '/colee/yii2-vue'),
     'cebe\\markdown\\' => array($vendorDir . '/cebe/markdown'),
     'Faker\\' => array($vendorDir . '/fzaninotto/faker/src/Faker'),
 );
